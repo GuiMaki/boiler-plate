@@ -89,12 +89,12 @@ const DefaultModal = () => {
           <Icon color={modalColor} name={modalIcon} size={24} />
         </View>
 
-        <Text className="font-poppins_semibold text-center text-xl text-neutral-100">
+        <Text className="text-center font-poppins_semibold text-xl text-neutral-100">
           {modal.title}
         </Text>
 
         {modal.message && (
-          <Text className="font-poppins text-neutral-60 text-center text-base">
+          <Text className="text-center font-poppins text-base text-neutral-60">
             {modal.message}
           </Text>
         )}

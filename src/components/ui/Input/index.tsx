@@ -115,7 +115,7 @@ const Input = <TFieldValues extends FieldValues>({
 
       <View className="w-full gap-px">
         <View
-          className="border-neutral-20 w-full flex-row items-center rounded-lg border bg-white"
+          className="w-full flex-row items-center rounded-lg border border-neutral-20 bg-white"
           style={{ minHeight }}
         >
           {type ? (

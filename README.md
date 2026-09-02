@@ -1,5 +1,3 @@
-# Welcome to MW Boilerplate
-
 This is an Expo project template with a lot of batteries included to help you get started quickly.
 
 ## Get started
